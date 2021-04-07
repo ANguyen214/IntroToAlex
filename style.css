@@ -1,0 +1,47 @@
+a:link  { color: blue}
+a:visited { color:purple}
+a:hover { color:aquamarine}
+a:active {color: black}
+a {
+  font-size: 25px;
+}
+
+header{
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+  color:bisque;
+  background-image: url("images/black-pattern.jpg");
+  margin: 0px;
+  padding-top:40px;
+  padding-bottom:50px;
+  height: auto;
+}
+
+main{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: bisque;
+  background-image: url("images/wooden-pane.jpg");
+  padding: 50px;
+  height: auto;
+}
+
+article{
+  padding: 50px;
+}
+
+li{
+  text-align: left;
+}
+
+footer{
+  color:bisque;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("images/black-pattern.jpg");
+  margin:0px;
+  padding:20px; 
+  height: auto;
+}
