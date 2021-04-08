@@ -1,3 +1,6 @@
+/*
+  The following code is for the link text rollover feature. It must be in this order. This also formats the font size for anchored elements to be 25px. Remember LoVe HAte pneumonic device for the order. -AN
+*/
 a:link  { color: blue}
 a:visited { color:purple}
 a:hover { color:aquamarine}
@@ -6,6 +9,9 @@ a {
   font-size: 25px;
 }
 
+/*
+  This next block styles the header of the page. -AN
+*/
 header{
   text-align: center;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,6 +24,9 @@ header{
   height: auto;
 }
 
+/*
+  This block styles the main portion. Image background is set here and font color is set to bisque so it is easier to read against the background. -AN
+*/
 main{
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
@@ -28,14 +37,23 @@ main{
   height: auto;
 }
 
+/*
+  Article containers are padded to create space between each horizontal rule. -AN
+*/
 article{
   padding: 50px;
 }
 
+/*
+  List text is aligned to the left to make the bullets/numbers line up. -AN
+*/
 li{
   text-align: left;
 }
 
+/*
+  Footer styles are created here and the footer uses the same background as the header. -AN
+*/
 footer{
   color:bisque;
   text-align: left;
