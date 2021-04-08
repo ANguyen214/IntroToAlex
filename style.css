@@ -16,7 +16,7 @@ header{
   text-align: center;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 20px;
-  color:bisque;
+  color:brown;
   background-image: url("images/black-pattern.jpg");
   margin: 0px;
   padding-top:40px;
@@ -31,7 +31,7 @@ main{
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
-  color: bisque;
+  color: brown;
   background-image: url("images/wooden-pane.jpg");
   padding: 50px;
   height: auto;
@@ -55,7 +55,7 @@ li{
   Footer styles are created here and the footer uses the same background as the header. -AN
 */
 footer{
-  color:bisque;
+  color:brown;
   text-align: left;
   font-family: Arial, Helvetica, sans-serif;
   background-image: url("images/black-pattern.jpg");
